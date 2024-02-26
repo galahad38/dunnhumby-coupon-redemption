@@ -63,15 +63,18 @@ After the features were created, several defects remained:
 
 The following questions were answered:
 1) On average, how long did each type of campaign run for?
-![Untitled](https://github.com/galahad38/dunnhumby-coupon-redemption/assets/19240929/81d76193-b339-4a44-8577-5f1c421a34a8)
+![Campaign Runtime](https://github.com/galahad38/dunnhumby-coupon-redemption/assets/19240929/81d76193-b339-4a44-8577-5f1c421a34a8)
+
 On average, TypeB campaigns run the shortest, for 37.6 days, and TypeC campaigns run the longest, for 74.5 days.
 
 2) Which was the most popular type of campaign?
-![Untitled-1](https://github.com/galahad38/dunnhumby-coupon-redemption/assets/19240929/0d55d1f7-88cb-4299-bbd0-7398ad3d4c88)
+![Popular Campaign Type](https://github.com/galahad38/dunnhumby-coupon-redemption/assets/19240929/0d55d1f7-88cb-4299-bbd0-7398ad3d4c88)
+
 TypeA was the most popular type of Campaign
 
 3) Who were the most frequent shoppers?
-![Untitled](https://github.com/galahad38/dunnhumby-coupon-redemption/assets/19240929/ebae2ecc-8338-4566-8621-0f9691d4b604)
+![Frequent Shoppers](https://github.com/galahad38/dunnhumby-coupon-redemption/assets/19240929/ebae2ecc-8338-4566-8621-0f9691d4b604)
+
 The Data spans across a period of 2 years. This means that there were definitely customers/households that visited more than once a day, on average.
 
 ### Data Visualization:
@@ -80,20 +83,18 @@ Used Seaborn to visualize the distribution of individual variables (Univariate A
 Univariate Analysis:
 
 Numerical Variables:
-![Untitled](https://github.com/galahad38/dunnhumby-coupon-redemption/assets/19240929/95aca2ba-e48e-4a49-ae2c-469c59665b33)
+![Numerical Variables](https://github.com/galahad38/dunnhumby-coupon-redemption/assets/19240929/95aca2ba-e48e-4a49-ae2c-469c59665b33)
 
 Categorical Variables:
-![Untitled](https://github.com/galahad38/dunnhumby-coupon-redemption/assets/19240929/9039cf73-2ed9-44b6-bc72-373b526d61d1)
-
+![Categorical Variables](https://github.com/galahad38/dunnhumby-coupon-redemption/assets/19240929/9039cf73-2ed9-44b6-bc72-373b526d61d1)
 
 Bivariate Analysis:
 
 Numerical Variables vs Target:
-![Untitled-1](https://github.com/galahad38/dunnhumby-coupon-redemption/assets/19240929/7aa5fd3a-88a5-4ade-9a2a-55efb81d44b7)
-
+![Numerical Variables vs Target](https://github.com/galahad38/dunnhumby-coupon-redemption/assets/19240929/7aa5fd3a-88a5-4ade-9a2a-55efb81d44b7)
 
 Categorical Variables vs Target:
-![Untitled](https://github.com/galahad38/dunnhumby-coupon-redemption/assets/19240929/563ceeec-6e7d-4e9c-946a-73fa21301537)
+![Categorical Variables vs Target](https://github.com/galahad38/dunnhumby-coupon-redemption/assets/19240929/563ceeec-6e7d-4e9c-946a-73fa21301537)
 
 ### Treating Quasi-Separation:
 
@@ -103,7 +104,7 @@ Categorical Variables vs Target:
 
 ### Further Binning the Categorical Variables:
 
-![Untitled](https://github.com/galahad38/dunnhumby-coupon-redemption/assets/19240929/226678cf-9524-404a-b7ba-299370a78d11)
+![Further Binning the Categorical Variables](https://github.com/galahad38/dunnhumby-coupon-redemption/assets/19240929/226678cf-9524-404a-b7ba-299370a78d11)
 
 ### Treating Multicollinearity:
 
@@ -131,4 +132,4 @@ I am satisfied with the outcome of this project. However it is simplistic and un
 3) Performing Oversampling Techniques to obtain more rows.
 4) Product-Based Coupon Redemption instead of Customer-Based Coupon Redemption.
 
-** Since Academic Requirements have been met for this project, I will put off implementing this for some time. In the meantime, feel free to contribute to this Project! **
+**Since Academic Requirements have been met for this project, I will put off implementing this for some time. In the meantime, feel free to contribute to this Project!**
