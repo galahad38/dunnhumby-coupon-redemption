@@ -63,16 +63,19 @@ After the features were created, several defects remained:
 
 The following questions were answered:
 1) On average, how long did each type of campaign run for?
+
 ![Campaign Runtime](https://github.com/galahad38/dunnhumby-coupon-redemption/assets/19240929/81d76193-b339-4a44-8577-5f1c421a34a8)
 
 On average, TypeB campaigns run the shortest, for 37.6 days, and TypeC campaigns run the longest, for 74.5 days.
 
 2) Which was the most popular type of campaign?
+
 ![Popular Campaign Type](https://github.com/galahad38/dunnhumby-coupon-redemption/assets/19240929/0d55d1f7-88cb-4299-bbd0-7398ad3d4c88)
 
 TypeA was the most popular type of Campaign
 
 3) Who were the most frequent shoppers?
+
 ![Frequent Shoppers](https://github.com/galahad38/dunnhumby-coupon-redemption/assets/19240929/ebae2ecc-8338-4566-8621-0f9691d4b604)
 
 The Data spans across a period of 2 years. This means that there were definitely customers/households that visited more than once a day, on average.
