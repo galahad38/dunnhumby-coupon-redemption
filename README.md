@@ -135,4 +135,4 @@ I am satisfied with the outcome of this project. However it is simplistic and un
 3) Performing Oversampling Techniques to obtain more rows.
 4) Product-Based Coupon Redemption instead of Customer-Based Coupon Redemption.
 
-**Since Academic Requirements have been met for this project, I will put off implementing this for some time. In the meantime, feel free to contribute to this Project!**
+**Since Academic Requirements have been met for this project, I will put off implementing these for some time. In the meantime, feel free to contribute to this Project!**
